@@ -1,0 +1,19 @@
+# Nombre de Tu Proyecto
+
+Descripción concisa de tu proyecto.
+
+## Contenido
+
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+
+## Instalación
+
+Describe los pasos para instalar y ejecutar tu Landing Page localmente.
+
+```bash
+git clone <enlace_del_repositorio>
+cd nombre_del_repositorio
+# Agrega cualquier paso adicional necesario
